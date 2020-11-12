@@ -1,8 +1,13 @@
+# About 📃
+Alura Store projeto criando durante o curso de Frontend da alura. Aprendendo a posicionar elementos e criar layouts com CSS grid. Site responsivo para todos 
+dispositivos. 
+
+
+
 
 ![alurinha](https://imgur.com/bbFi56T.png)
 
-Alura Store projeto criando durante o curso de Frontend da alura. Aprendendo a posicionar elementos e criar layouts com CSS grid. Site responsivo para todos 
-dispositivos. 
+
 
 
 
