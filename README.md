@@ -1,5 +1,5 @@
 
-![alurinha](https://imgur.com/a/K65EEcl.png)
+![alurinha](https://imgur.com/bbFi56T.png)
 
 Alurinha projeto criando durante o curso de Frontend da alura. Aprendendo a posicionar elementos com display flex e todas suas propriedades. Site responsivo para todos 
 dispositivos. 
